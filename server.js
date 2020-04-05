@@ -41,7 +41,7 @@ function notFoundHandeler(request,response){
 
 
 function errorHandeler(error,request,response){
-  response.status(404).send(`error 404 your entered city not found ${Weather.all}`);
+  response.status(500).send(`Sorry, something went wrong`);
 }
 
 function Location(city,geoData){
