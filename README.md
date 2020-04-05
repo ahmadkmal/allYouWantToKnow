@@ -22,3 +22,37 @@ here you can find the main page which will use to show the server is working and
 ## Credits and Collaborations
 <!-- Give credit (and a link) to other people or resources that helped you build this application. -->
 04-05-2020 08:00pm - location and weather working
+
+
+
+# Number and name of feature:  Repository Set Up
+
+Estimate of time needed to complete: 0.5 hour
+
+Start time: 3 pm
+
+Finish time: 4 pm 
+
+Actual time needed to complete: 1 hour
+
+
+# Number and name of feature:  location
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 4 pm
+
+Finish time: 6 pm 
+
+Actual time needed to complete: 2 hour
+
+
+# Number and name of feature:  weather
+
+Estimate of time needed to complete: 0.5 hour
+
+Start time: 7 pm
+
+Finish time: 7.30 pm 
+
+Actual time needed to complete: 0.5 hour
